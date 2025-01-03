@@ -16,7 +16,7 @@ from googletrans import Translator  # Google Translate API wrapper
 
 
 ##### Constants #####
-ChromeDriver_Path = "/Users/Sia/Downloads/chromedriver-mac-arm64/chromedriver" #Add your chrome driver path
+ChromeDriver_Path = "" #Add your chrome driver path
 URL = "https://elpais.com/"   #Base URL
 Save_Img_To_Dir = "Cover_Image" #Add path to store the cover images
 
