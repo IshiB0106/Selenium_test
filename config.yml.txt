@@ -1,5 +1,5 @@
-userName: sia_LIzZhY
-accessKey: ck7mrmoMcLMyp4JNVUxr
+userName: YOUR USERNAME
+accessKey: YOUR ACCESS KEY
 platforms:
   - deviceName: Samsung Galaxy Tab S9
     osVersion: 13.0
